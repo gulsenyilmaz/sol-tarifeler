@@ -1,0 +1,14 @@
+{
+
+    "BG_PNG": {"dev": "./medias/BG.png", "prod": "media://266"},
+    "BUTTONS_PNG": {"dev": "./medias/buttons.png", "prod": "media://293"},
+    "EVIMDE_FIBER_PNG": {"dev": "./medias/evimde_fiber_internet.png", "prod": "media://350"},
+    "EVIMDE_HIZLI_PNG": {"dev": "./medias/evimde_hizli_internet.png", "prod": "media://351"},
+    "EVIMDE_SUPER_PNG": {"dev": "./medias/evimde_super_universiteli.png", "prod": "media://352"},
+    "EVIMDE_CEBIMDE_FIBER_PNG": {"dev": "./medias/evimde_ve_cebimde_fiber_internet.png", "prod": "media://353"},
+    "EVIMDE_CEBIMDE_HIZLI_PNG": {"dev": "./medias/evimde_ve_cebimde_hizli_internet.png", "prod": "media://354"},
+    "FIBER_TURKCELLTV_PNG": {"dev": "./medias/fiber_paketimle_turkceltv.png", "prod": "media://292"},
+    "YALNIZCA_TURKCELLTV_PNG": {"dev": "./medias/yalnizca_turkcelltv.png", "prod": "media://326"},
+    "INTRO_VIDEO": {"dev": "./medias/TURKCELL_TIM_EKRANLAR_SOL_r9.mp4", "prod": "media://367"}
+
+}
