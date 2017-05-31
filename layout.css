@@ -15,15 +15,10 @@ video {
     height: 1920px;
 }
 
-body.weboss.portrait-cw video{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 1920px!important;
-    height: 100%;
-}
-
-body.weboss.portrait-ccw video{
+body.weboss.webos-signage-1.portrait-cw video,
+body.weboss.webos-signage-2.portrait-cw video,
+body.weboss.webos-signage-1.portrait-ccw video,
+body.weboss.webos-signage-2.portrait-ccw video {
     position: absolute;
     top: 0;
     left: 0;
