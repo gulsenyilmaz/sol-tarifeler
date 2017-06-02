@@ -15,8 +15,8 @@ video {
     height: 1920px;
 }
 
-body.weboss.webos-signage-1.portrait-cw video,
-body.weboss.webos-signage-2.portrait-cw video,
+body.weboss.webos-signage-1.portrait video,
+body.weboss.webos-signage-2.portrait video,
 body.weboss.webos-signage-1.portrait-ccw video,
 body.weboss.webos-signage-2.portrait-ccw video {
     position: absolute;
